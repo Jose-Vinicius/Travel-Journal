@@ -11,7 +11,7 @@ Com base em um layout, foi proposto a criação de uma página de login responsi
 ## 🚀 Resultado: 
 <img src="./public/design/travel-final-p1.PNG">
 <img src="./public/design/travel-final-p2.PNG">
-<a href="https://campin-login-page.vercel.app">Clique aqui para acessar o site</a> 
+<a href="https://travel-journal-mauve.vercel.app">Clique aqui para acessar o site</a> 
 
 
 ## ⚒️ Tecnologias utilizadas:
